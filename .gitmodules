@@ -1,0 +1,3 @@
+[submodule "3rdparty/goquery"]
+	path = 3rdparty/goquery
+	url = git@github.com:PuerkitoBio/goquery.git
