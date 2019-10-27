@@ -1,3 +1,6 @@
 [submodule "3rdparty/goquery"]
 	path = 3rdparty/goquery
 	url = git@github.com:PuerkitoBio/goquery.git
+[submodule "3rdparty/xlsx"]
+	path = 3rdparty/xlsx
+	url = https://github.com/tealeg/xlsx.git
